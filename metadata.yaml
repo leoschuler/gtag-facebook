@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://github.com/leoschuler/gtag-consent-management"
-documentation: "https://github.com/leoschuler/gtag-consent-management"
+homepage: "https://github.com/leoschuler/gtag-facebook"
+documentation: "https://github.com/leoschuler/gtag-facebook"
 versions:
   - sha: 70a9cf8e0bc50c844afbec5dcbb9458965f190bc
     changeNotes: Initial Version
